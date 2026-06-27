@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# Local vector store (rebuilt by `uv run python -m src.ingest`)
+chroma_db/
+
+# Source manual is copyrighted; provide your own, do not commit it
+*.pdf
+
+# OS / editor
+.DS_Store
+
+# local notes
+docs/
