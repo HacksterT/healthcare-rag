@@ -8,5 +8,5 @@ dependencies = [
     "chromadb>=0.5",
     "pypdf>=5.0",
     "ipykernel>=6.29",
-    "jupyterlab>=4.2",
+    "jupyterlab>=4.6.2",
 ]
